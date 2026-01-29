@@ -1,4 +1,4 @@
-# Portfolio Project: TheoTown Review Analysis
+# TheoTown Review Analysis
 
 **Proyek Latihan Data Analyst / Data Analyst Practice Project**
 
